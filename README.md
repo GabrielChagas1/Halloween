@@ -1,5 +1,6 @@
 # Responsive Halloween Website 🎃
 ## [Watch it on youtube](https://youtu.be/lgo1CEPZoxg)
+## [Preview](https://responsive-halloween-website.vercel.app/)
 ### Responsive Halloween Website 🎃
 
 - Responsive Halloween Website Using HTML, CSS & JavaScript.
