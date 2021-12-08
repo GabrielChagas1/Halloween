@@ -185,6 +185,8 @@ button{
     z-index: var(--z-fixed);
     border-radius: 0 0 1.5rem 1.5rem;
   }
+}
+
   .nav__img{
     width: 100px;
     position: absolute;
@@ -638,6 +640,10 @@ button{
 
 .footer__container{
   row-gap: 2rem;
+}
+
+.footer__logo{
+  display: flex;
   align-items: center;
   column-gap: .5rem;
   margin-bottom: var(--mb-1);
