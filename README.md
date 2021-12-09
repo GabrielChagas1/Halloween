@@ -1,7 +1,7 @@
 <div align="center">
     <h1 align="center">Create a Responsive Halloween Website Design Using HTML CSS & JavaScript 🎃</h1>
     <p>Criação de um site com tema sobre Halloween para treino e fixação de conteúdo.</p>
-    <img src="./design/mockup.png" alt="Logo" width="800">
+    <img src="./design/preview.png" alt="Logo" width="800">
 </div>
 
 ---
