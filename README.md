@@ -21,11 +21,12 @@
 * [Links Contato](#links-contato)
 
 # Descrição
-Criação da interface do WhatsApp Web para treino e fixação dos conteúdos aprendendido durante a aula [**@Online Tutorials**](https://www.youtube.com/watch?v=2vfT5nwNvNo)
+Criação da interface do WhatsApp Web para treino e fixação dos conteúdos aprendendido durante a aula [**@BedimCode**](https://www.youtube.com/c/Bedimcode)
 
 # Techs: 
 - **HTML**
 - **CSS**
+- **Javascript**
 
 # Design:
 - O modelo final para desktop está disponível na pasta `./design`
