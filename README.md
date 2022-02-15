@@ -21,7 +21,7 @@
 * [Links Contato](#links-contato)
 
 # Descrição
-Criação da interface do WhatsApp Web para treino e fixação dos conteúdos aprendendido durante a aula [**@BedimCode**](https://www.youtube.com/c/Bedimcode)
+Criação de um site com tema sobre Halloween para treino e fixação de conteúdo.[**@BedimCode**](https://www.youtube.com/c/Bedimcode)
 
 # Techs: 
 - **HTML**
